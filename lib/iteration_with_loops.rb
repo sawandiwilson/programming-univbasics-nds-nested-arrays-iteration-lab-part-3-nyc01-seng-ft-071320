@@ -8,5 +8,5 @@ def join_nested_strings(src)
   ["studied", 101, 233, "Ruby"]
 ]
  
-join_nested_strings(mixed_data)
+join_nested_strings(src)
 end
